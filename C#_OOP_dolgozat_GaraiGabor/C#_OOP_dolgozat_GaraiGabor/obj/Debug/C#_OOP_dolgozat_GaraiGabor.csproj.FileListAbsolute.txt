@@ -1,0 +1,7 @@
+E:\Petrik 2023 14SL\C#\C#_OOP_dolgozat_GaraiGabor\C#_OOP_dolgozat_GaraiGabor\bin\Debug\C#_OOP_dolgozat_GaraiGabor.exe.config
+E:\Petrik 2023 14SL\C#\C#_OOP_dolgozat_GaraiGabor\C#_OOP_dolgozat_GaraiGabor\bin\Debug\C#_OOP_dolgozat_GaraiGabor.exe
+E:\Petrik 2023 14SL\C#\C#_OOP_dolgozat_GaraiGabor\C#_OOP_dolgozat_GaraiGabor\bin\Debug\C#_OOP_dolgozat_GaraiGabor.pdb
+E:\Petrik 2023 14SL\C#\C#_OOP_dolgozat_GaraiGabor\C#_OOP_dolgozat_GaraiGabor\obj\Debug\C#_OOP_dolgozat_GaraiGabor.csproj.AssemblyReference.cache
+E:\Petrik 2023 14SL\C#\C#_OOP_dolgozat_GaraiGabor\C#_OOP_dolgozat_GaraiGabor\obj\Debug\C#_OOP_dolgozat_GaraiGabor.csproj.CoreCompileInputs.cache
+E:\Petrik 2023 14SL\C#\C#_OOP_dolgozat_GaraiGabor\C#_OOP_dolgozat_GaraiGabor\obj\Debug\C#_OOP_dolgozat_GaraiGabor.exe
+E:\Petrik 2023 14SL\C#\C#_OOP_dolgozat_GaraiGabor\C#_OOP_dolgozat_GaraiGabor\obj\Debug\C#_OOP_dolgozat_GaraiGabor.pdb
